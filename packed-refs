@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+652811b87088c812b023ff94521ba43417cfca8e refs/heads/dependabot/pip/notebook-6.4.1
+ea871db94be72b84f66b51ea972c6af940e7d6fe refs/heads/master
+5923e12704a49ed4c081ac8afcac8b416fd76883 refs/tags/2
+0f9acd26dbc5141584e4a2ed993c07f08295a338 refs/tags/3
